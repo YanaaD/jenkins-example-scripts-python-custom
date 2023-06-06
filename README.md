@@ -10,4 +10,4 @@ This repo will be used to make a pipeline which runs a custom python script, whi
 
 **python -> python3/current python version**
 
-You **must** make these changes in order for the **Jenkinsfile** to be useable for you
+You **must** make these changes in order for the **Jenkinsfile** to be useable for you.
