@@ -8,7 +8,7 @@ pipeline {
     }
     stage('hello') {
       steps {
-        sh 'python3 Task1.py'
+        bat 'python3 Task1.py'
       }
     }
   }
