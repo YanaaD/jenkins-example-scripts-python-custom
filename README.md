@@ -7,6 +7,7 @@ This repo will be used to make a pipeline which runs a custom python script, whi
 ## If you are using a Unix based system (MacOs or Linux) please note the differences:
 
 **bat -> sh** 
+
 **python -> python3/current python version**
 
 You **must** make these changes in order for the **Jenkinsfile** to be useable for you
