@@ -2,7 +2,7 @@
 
 This repo will be used to make a pipeline which runs a custom python script, which simply finds the mininimum sum of two lists.
 
-# Important Note: This code is specifically tailored for Windows users!
+## Important Note: This code is specifically tailored for Windows users!
 
 ## If you are using a Unix based system (MacOs or Linux) please note the differences:
 
