@@ -6,7 +6,7 @@ pipeline {
         bat 'python --version'
       }
     }
-    stage('hello') {
+    stage('Task1') {
       steps {
         bat 'python Task1.py'
       }
